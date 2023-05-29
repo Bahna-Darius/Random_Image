@@ -73,7 +73,7 @@ draw.text((x4,y4), text4, font=font4, fill=color4)
 # Locul in care se va Salva Poza:
 image.save("C:/Users/Darius/Downloads/imagine_modificata.jpg")
 
-
+x = 3
 
 
 
